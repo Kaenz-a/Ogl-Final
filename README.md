@@ -2,14 +2,23 @@
 
 Tuşlar
 wasd        : Haraket
+
 K           : Son sahneye ışınlanma
+
 J           : Sahneyi baştan başlatma
+
 H           : No clip (Haraket sınırlamalarını kaldırma)
+
 C           : Pozisyon ve bakılan yön yazdırır
+
 Space       : Karaker animasyonlarını durdurma
+
 Yön tuşları : Fareniz yoksa etrafa bakınmak için kullanabilirsiniz
+
 PAGE_UP     : Yukarı haraket(sadece noclipte)
+
 PAGE_DOWN   : Aşağı haraket(sadece noclipte)
+
 
 Noclip kameradan çıkmak için 'J' tuşuna basarak sahneyi yeniden başlatmak gerekmekte.
 
