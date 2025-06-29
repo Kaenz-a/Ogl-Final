@@ -1,0 +1,52 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  stb_image.cpp
+  camera.cpp
+  cubemap_texture.cpp
+  glut_backend.cpp
+  io_buffer.cpp
+  math_3d.cpp
+  ogldev_app.cpp
+  ogldev_atb.cpp
+  ogldev_backend.cpp
+  ogldev_base_app.cpp
+  ogldev_base_app2.cpp
+  ogldev_basic_glfw_camera.cpp
+C:\Users\oguzh\opengl repo\ogldev\Common\ogldev_basic_glfw_camera.cpp(27,18): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\oguzh\opengl repo\ogldev\Common\ogldev_basic_glfw_camera.cpp(43,34): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  ogldev_basic_lighting.cpp
+  ogldev_basic_mesh.cpp
+  Kod Üretiliyor...
+  Derleniyor...
+  ogldev_bezier_curve_technique.cpp
+  ogldev_billboard_list.cpp
+  ogldev_billboard_technique.cpp
+  ogldev_flat_passthru_technique.cpp
+  ogldev_framebuffer.cpp
+  ogldev_glfw.cpp
+  ogldev_glfw_backend.cpp
+  ogldev_glfw_camera_handler.cpp
+  ogldev_glm_camera.cpp
+  ogldev_guitex_technique.cpp
+  ogldev_gui_texture.cpp
+  ogldev_infinite_grid.cpp
+  ogldev_infinite_grid_technique.cpp
+  ogldev_new_lighting.cpp
+  ogldev_passthru_vec2_technique.cpp
+  ogldev_phong_renderer.cpp
+  ogldev_quad_tess_technique.cpp
+  ogldev_screen_quad.cpp
+  ogldev_shadow_cube_map_fbo.cpp
+  ogldev_shadow_mapping_technique.cpp
+  Kod Üretiliyor...
+  Derleniyor...
+  ogldev_shadow_mapping_technique_point_light.cpp
+  ogldev_shadow_map_fbo.cpp
+  ogldev_shadow_map_offset_texture.cpp
+  ogldev_skinned_mesh.cpp
+  ogldev_skinning_technique.cpp
+  ogldev_skybox.cpp

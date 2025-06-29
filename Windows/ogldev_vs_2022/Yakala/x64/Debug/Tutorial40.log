@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (Tutorial40_PracticalSkeletonAnimation.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  stb_image.cpp
+  math_3d.cpp
+  ogldev_basic_glfw_camera.cpp
+C:\Users\oguzh\OneDrive\Desktop\Ogl Ödev\ogldev\Common\ogldev_basic_glfw_camera.cpp(27,18): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\oguzh\OneDrive\Desktop\Ogl Ödev\ogldev\Common\ogldev_basic_glfw_camera.cpp(43,34): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  ogldev_basic_mesh.cpp
+  ogldev_glfw.cpp
+  ogldev_new_lighting.cpp
+  ogldev_phong_renderer.cpp
+  ogldev_shadow_mapping_technique.cpp
+  ogldev_shadow_map_fbo.cpp
+  ogldev_skinned_mesh.cpp
+  ogldev_skinning_technique.cpp
+  ogldev_texture.cpp
+  ogldev_util.cpp
+  ogldev_world_transform.cpp
+  technique.cpp
+  tutorial40.cpp
+  Kod Üretiliyor...
+LINK : warning LNK4098: defaultlib 'MSVCRT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  Tutorial40.vcxproj -> C:\Users\oguzh\OneDrive\Desktop\Ogl Ödev\ogldev\Windows\ogldev_vs_2022\x64\Debug\Yakala.exe
