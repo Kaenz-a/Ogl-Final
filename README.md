@@ -1,5 +1,9 @@
 # Ogl-Final
 
+
+"Ogl-Final\Windows\ogldev_vs_2022\vs_2022.sln" çözümü ile çalıştırılır. 
+
+
 Tuşlar
 wasd        : Haraket
 
