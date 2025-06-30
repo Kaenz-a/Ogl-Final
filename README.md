@@ -2,6 +2,7 @@
 
 
 "Ogl-Final\Windows\ogldev_vs_2022\vs_2022.sln" çözümü ile çalıştırılır. 
+Kendi bilgisayarım dışında deneyebileceğim bir Bilgisayarım olmadığı için bazı bilgisayarlarda çalışmayabilir.
 
 
 Tuşlar
